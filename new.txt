@@ -1,0 +1,22 @@
+clone
+pull  or fetch
+push
+commit
+add
+merge
+status
+branch -a 
+stash
+.gitignore
+
+Advanced
+rebase
+cherrypic
+
+
+
+most using
+
+
+
+
